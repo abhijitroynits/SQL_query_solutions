@@ -7,4 +7,4 @@ The attached word documents contain comprehensive SQL queries for three major we
 2. **SQLBolt**(https://sqlbolt.com/)
 3. **SQLzoo**(https://sqlzoo.net/)
 
-The queries solve range from beginner to advanced in quality.
+The queries solved range from beginner to advanced in quality.
